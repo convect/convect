@@ -1,0 +1,2 @@
+echo $0 $@
+/home/ender/arduino-nightly/hardware/tools/avr/bin/_avr-gcc "$@"
