@@ -47,8 +47,6 @@ ARFLAGS = rcs
 
 INCLUDE  = -I$(ARDUINO_PATH)/hardware/arduino/avr/cores/arduino 
 INCLUDE += -I$(ARDUINO_PATH)/hardware/arduino/avr/variants/yun 
-#INCLUDE += -I$(ARDUINO_PATH)/libraries/Bridge/src 
-#INCLUDE += -I$(PROJECT_PATH)/libraries/Convectors
 
 LIB_CXXSRC  = src/Mailbox.cpp
 LIB_CXXSRC += src/YunClient.cpp
