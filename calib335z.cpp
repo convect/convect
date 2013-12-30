@@ -1,3 +1,8 @@
+/*
+ * Convect v1.0
+ * (c) 2013 D.M.
+ */
+
 #include <Bridge.h>
 #include <Console.h>
 #include <Arduino.h>

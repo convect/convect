@@ -1,3 +1,6 @@
+# Convect v1.0
+# (c) 2013 D.M.
+
 MCU=atmega32u4
 F_CPU=16000000L
 VID=0x2341
